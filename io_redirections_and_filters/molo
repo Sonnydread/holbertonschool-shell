@@ -21,20 +21,14 @@ drwxrwxr-x 2 ubuntu ubuntu 4096 Oct  7 00:41 javascript
 drwxrwxr-x 3 ubuntu ubuntu 4096 Feb  8  2016 test_dir
 -rwxrwxr-x 1 ubuntu ubuntu   54 Feb  8  2016 test.var
 
-./0-commas-checks:
-total 16
 drwxrwxr-x 2 ubuntu ubuntu 4096 Feb  8  2016 .
 drwxrwxr-x 5 ubuntu ubuntu 4096 Oct  7 00:48 ..
 -rw-rw-r-- 1 ubuntu ubuntu 1361 Feb  8  2016 28-check.php
 -rw-rw-r-- 1 ubuntu ubuntu  481 Feb  8  2016 28-check.php~
 
-./javascript:
-total 8
 drwxrwxr-x 2 ubuntu ubuntu 4096 Oct  7 00:41 .
 drwxrwxr-x 5 ubuntu ubuntu 4096 Oct  7 00:48 ..
 
-./test_dir:
-total 12
 drwxrwxr-x 3 ubuntu ubuntu 4096 Feb  8  2016 .
 drwxrwxr-x 5 ubuntu ubuntu 4096 Oct  7 00:48 ..
 -rw-rw-r-- 1 ubuntu ubuntu    0 Feb  8  2016 docker.gif
@@ -43,8 +37,6 @@ drwxrwxr-x 5 ubuntu ubuntu 4096 Oct  7 00:48 ..
 drwxrwxr-x 2 ubuntu ubuntu 4096 Feb  8  2016 photos
 -rw-rw-r-- 1 ubuntu ubuntu    0 Feb  8  2016 README.md
 
-./test_dir/photos:
-total 8
 drwxrwxr-x 2 ubuntu ubuntu 4096 Feb  8  2016 .
 drwxrwxr-x 3 ubuntu ubuntu 4096 Feb  8  2016 ..
 -rw-rw-r-- 1 ubuntu ubuntu    0 Feb  8  2016 cat.gif
